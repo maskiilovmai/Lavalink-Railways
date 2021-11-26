@@ -1,5 +1,5 @@
 server:
-  port: ${PORT}
+  port: 2333
   address: 0.0.0.0
 spring:
   main:
@@ -33,7 +33,7 @@ sentry:
 logging:
   file:
     max-history: 1
-    max-size: 3MB
+    max-size: 1GB
   path: /app/logs/
 
   level:

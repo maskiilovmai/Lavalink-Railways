@@ -1,0 +1,12 @@
+{
+    "name": "Lavalink",
+    "description": "Standalone audio sending node based on Lavaplayer.",
+    "logo": "https://darrennathanael.com/cdn/springboot.svg",
+    "repository": "https://github.com/maskiilovmai/Lavalink-Railways",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}

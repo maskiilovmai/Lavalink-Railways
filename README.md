@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/maskiilovmai/Lavalink-Replit">
+  <a href="https://github.com/maskiilovmai/Lavalink-Railways/">
     <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
   </h1>
 
